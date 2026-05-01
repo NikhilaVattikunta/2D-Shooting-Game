@@ -24,7 +24,8 @@
 2. Run Game.java
 
 ## 📸 Screenshots
-<img width="993" height="765" alt="Screenshot 2026-05-01 160914" src="https://github.com/user-attachments/assets/3fa70dfe-00eb-4fc0-84a5-d38107f9b71b" />
+<img width="998" height="783" alt="Screenshot 2026-05-01 162931" src="https://github.com/user-attachments/assets/1bc1169c-b32f-4c41-a8a9-0eff58ac5bf5" />
+
 
 
 
